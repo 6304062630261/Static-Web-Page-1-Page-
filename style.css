@@ -1,0 +1,44 @@
+้html, body{
+    background-image: url('leaf.jpg');
+    background-size: 100% ;
+    text-align: left;
+}
+.headline{
+    background-color: rgb(28, 50, 43);
+    margin-top: 20px;
+    margin-left: 190px;
+    margin-right: 190px;
+    padding: 15px;
+}
+.hltext{
+    text-align: center;
+    color: aliceblue;
+}
+.box{
+    background-color: rgb(245, 239, 232);
+    margin: 0px 190px;
+    padding: 20px;
+    font-size: 16px;
+    text-align: right;
+    
+    
+}
+.image{
+    border-radius: 20px;
+    width: 80%;
+    
+}
+img{
+    border-radius: 20px;
+}
+.end{
+    background-color: rgb(28, 50, 43);
+    margin-left: 190px;
+    margin-right: 190px;
+    padding: 7px;
+    color: aliceblue;
+}
+
+h2{
+    color: rgb(6, 69, 34);
+}
